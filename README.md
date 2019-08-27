@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-in-Python
+# tic-tac-toe
 A dynamic command line tic-tac-toe game created using python
