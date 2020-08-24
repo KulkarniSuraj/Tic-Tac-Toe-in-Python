@@ -1,2 +1,5 @@
-# tic-tac-toe
-A dynamic command line tic-tac-toe game created using python
+# Tic-Tac-Toe in terminal
+A dynamic size tic tac toe terminal game
+
+## Dependencies
+- Python 3.6 and above
